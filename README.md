@@ -2,13 +2,13 @@
 -
 
 🎯 Short Description / Purpose
-
+-
 ShopVista Sales & Inventory Analytics Dashboard is a single Power BI report designed to provide an interactive view of sales performance, profitability, customer activity, inventory availability, warehouse stock, supplier contribution, and category performance.
 
 The dashboard combines executive-level KPIs with detailed inventory analysis so that business users can quickly understand current performance and identify areas that require operational attention.
--
-🎯 Project Purpose
 
+🎯 Project Purpose
+-
 The main purpose of this dashboard is to:
 
 Monitor overall sales and profit performance.
@@ -28,9 +28,9 @@ Identify category-level profit performance.
 Monitor payment, damaged-order, and operational metrics.
 
 Support data-driven sales and inventory decisions.
--
-🛠️ Tech Stack
 
+🛠️ Tech Stack
+-
 Technology
 
 Usage
@@ -80,9 +80,9 @@ Inventory Analytics
 Data Visualization
 
 Business Insight Generation
--
-✨ Dashboard Features
 
+✨ Dashboard Features
+-
 The project contains one Power BI dashboard/report with two analytical pages.
 
 📌 Page 1 — KPI Dashboard
@@ -178,9 +178,9 @@ Region
 Category
 
 These filters allow users to analyze inventory performance at different business levels.
--
-💡 Business Insights
 
+💡 Business Insights
+-
 💰 Sales Performance
 
 Total sales are approximately 2.23M, significantly above the 500K sales target.
@@ -260,9 +260,9 @@ The relatively large pending amount makes payment-status monitoring an important
 The dashboard records 15 damaged orders.
 
 Tracking damaged orders can help management monitor operational quality and identify areas for process improvement.
--
-🏗️ Dashboard Architecture
 
+🏗️ Dashboard Architecture
+-
                     BUSINESS DATA
                          │
                          ▼
@@ -284,9 +284,9 @@ Tracking damaged orders can help management monitor operational quality and iden
              └───────────┬───────────┘
                          ▼
                   BUSINESS INSIGHTS
--
-🏢 Business Use Cases
 
+🏢 Business Use Cases
+-
 This dashboard can be used by:
 
 Sales Managers
@@ -326,9 +326,9 @@ Identify high-performing categories.
 Track pending payments.
 
 Make data-driven operational decisions.
--
-🔮 Future Enhancements
 
+🔮 Future Enhancements
+-
 Possible future improvements include:
 
 Sales forecasting
@@ -354,9 +354,9 @@ Product-level drill-through
 Automated Power BI Service refresh
 
 Advanced customer segmentation
--
-🏆 Project Outcome
 
+🏆 Project Outcome
+-
 The ShopVista Sales & Inventory Analytics Dashboard transforms business data into an interactive Power BI solution that combines sales, profitability, customer, payment and inventory intelligence.
 
 The dashboard enables stakeholders to quickly answer questions such as:
@@ -380,16 +380,14 @@ How much payment is still pending?
 Where should management focus operationally?
 
 The result is a management-friendly Business Intelligence dashboard that supports faster and more informed decision-making.
--
+
 🧠 Skills Demonstrated
-
-Power BI | Power Query | DAX | Data Modeling | KPI Design | Sales Analytics | Inventory Analytics | Profitability Analysis | Supplier Analysis | Warehouse Analysis | Data Visualization | Business Intelligence
 -
+Power BI | Power Query | DAX | Data Modeling | KPI Design | Sales Analytics | Inventory Analytics | Profitability Analysis | Supplier Analysis | Warehouse Analysis | Data Visualization | Business Intelligence
+
 👨‍💻 Author
-
-Jainil Mahant
-
-Data Analytics | Power BI | SQL | Excel | Python
+-
+Jainil Mahant - Data Analytics | Power BI | SQL | Excel | Python
 
 Portfolio: Jainil Mahant
 
