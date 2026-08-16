@@ -275,7 +275,7 @@ Power BI | Power Query | DAX | Data Modeling | KPI Design | Sales Analytics | In
 
 ## 👨‍💻 Author
 
-**Jainil Mahant** - Data Analytics | Power BI | SQL | Excel | Python
+**Jainil Mahant** - Data Analyst | Power BI | SQL | Excel | Python
 
 - Portfolio: [Jainil Mahant](https://jainil-mahant.vercel.app/)
 - GitHub: [JAINIL2207](https://github.com/JAINIL2207)
