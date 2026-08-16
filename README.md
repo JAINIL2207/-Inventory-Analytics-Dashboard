@@ -1,8 +1,5 @@
-📊 ShopVista — Sales & Inventory Analytics Dashboard
+📊 ShopVista Sales & Inventory Analytics Dashboard | Power BI
 
-📊 Project Title
-
-ShopVista Sales & Inventory Analytics Dashboard | Power BI
 
 🎯 Short Description / Purpose
 
